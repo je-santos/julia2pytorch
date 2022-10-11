@@ -16,4 +16,4 @@ This package is part of the Orchard suite, known internally as C20086 Orchard.
 Authors
 ------
 
-Daniel O'Malley (omalled@lanl.gov), Javier Estrada Santos, Nick Lubbers
+Daniel O'Malley (omalled@lanl.gov), Javier E. Santos, Nick Lubbers
